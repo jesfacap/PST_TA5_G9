@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="AndroidLogFilters">
+        <option
+            name="TOOL_WINDOW_CONFIGURED_FILTER"
+            value="Show only selected application" />
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default Changelist"
+            comment=""
+            default="true"
+            id="5b22f948-2806-411e-bece-5d8ed7acc409" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="DefaultGradleProjectSettings">
+        <option
+            name="isMigrated"
+            value="true" />
+    </component>
+    <component
+        name="ExecutionTargetManager"
+        SELECTED_TARGET="6NUDU18928020262" />
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file
+                current-in-tab="true"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/reto8/MainActivity.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="357">
+                            <caret
+                                column="25"
+                                lean-forward="true"
+                                line="25"
+                                selection-end-column="25"
+                                selection-end-line="25"
+                                selection-start-column="25"
+                                selection-start-line="25" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/reto8/INICIO.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="323">
+                            <caret
+                                column="17"
+                                line="24"
+                                selection-end-column="17"
+                                selection-end-line="24"
+                                selection-start-column="17"
+                                selection-start-line="24" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/reto8/Acerca.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="289">
+                            <caret
+                                column="25"
+                                line="21"
+                                selection-end-column="25"
+                                selection-end-line="21"
+                                selection-start-column="25"
+                                selection-start-line="21" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/reto8/CORREO.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="272">
+                            <caret
+                                column="31"
+                                line="23"
+                                selection-end-column="31"
+                                selection-end-line="23"
+                                selection-start-column="31"
+                                selection-start-line="23" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="false"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/reto8/Bienvenida.java">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="272">
+                            <caret
+                                column="30"
+                                line="21"
+                                selection-end-column="30"
+                                selection-end-line="21"
+                                selection-start-column="30"
+                                selection-start-line="21" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="IdeDocumentHistory">
+        <option name="CHANGED_PATHS">
+            <list>
+                <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+                <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+                <option value="$PROJECT_DIR$/app/src/main/java/com/example/reto8/MainActivity.java" />
+                <option value="$PROJECT_DIR$/app/src/main/java/com/example/reto8/Bienvenida.java" />
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_bienvenida.xml" />
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_acerca.xml" />
+                <option value="$PROJECT_DIR$/app/src/main/java/com/example/reto8/INICIO.java" />
+                <option value="$PROJECT_DIR$/app/src/main/java/com/example/reto8/CORREO.java" />
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_correo.xml" />
+                <option value="$PROJECT_DIR$/app/src/main/java/com/example/reto8/Acerca.java" />
+                <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_inicio.xml" />
+            </list>
+        </option>
+    </component>
+    <component
+        name="ProjectFrameBounds"
+        extendedState="7
