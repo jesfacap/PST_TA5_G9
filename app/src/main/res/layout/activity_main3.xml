@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2D2F31"
+    tools:context=".Main3Activity" >
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="320dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="40dp"
+        android:text="Películas de Marvel"
+        android:textColor="#F0F8F3F3"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.6"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imageButton12"
+        android:layout_width="145dp"
+        android:layout_height="174dp"
+        android:layout_marginTop="40dp"
+        android:onClick="ironman"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton13"
+        app:layout_constraintHorizontal_bias="0.603"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:srcCompat="@drawable/ironman" />
+
+    <ImageButton
+        android:id="@+id/imageButton13"
+        android:layout_width="145dp"
+        android:layout_height="174dp"
+        android:layout_marginTop="40dp"
+        android:onClick="infinitywar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.801"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:srcCompat="@drawable/iw" />
+
+    <ImageButton
+        android:id="@+id/imageButton15"
+        android:layout_width="145dp"
+        android:layout_height="174dp"
+        android:layout_marginTop="40dp"
+        android:onClick="civilwar"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton16"
+        app:layout_constraintHorizontal_bias="0.593"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton12"
+        app:srcCompat="@drawable/cw" />
+
+    <ImageButton
+        android:id="@+id/imageButton16"
+        android:layout_width="140dp"
+        android:layout_height="174dp"
+        android:layout_marginTop="40dp"
+        android:onClick="bpanther"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.802"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton13"
+        app:srcCompat="@drawable/pante" />
+
+    <ImageButton
+        android:id="@+id/imageButton17"
+        android:layout_width="145dp"
+        android:layout_height="174dp"
+        android:layout_marginTop="40dp"
+        android:onClick="guardians"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton18"
+        app:layout_constraintHorizontal_bias="0.57"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton15"
+        app:srcCompat="@drawable/guard" />
+
+    <ImageButton
+        android:id="@+id/imageButton18"
+        android:layout_width="145dp"
+        android:layout_height="174dp"
+        android:layout_marginTop="40dp"
+        android:onClick="endgame"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.808"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton16"
+        app:srcCompat="@drawable/endgame" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
