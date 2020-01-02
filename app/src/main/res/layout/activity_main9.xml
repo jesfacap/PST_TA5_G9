@@ -8,6 +8,29 @@
     tools:context=".Main9Activity">
 
     <TextView
+        android:id="@+id/textView69"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="256dp"
+        android:layout_marginEnd="16dp"
+        android:text="Duracion: 181 minutos"
+        app:layout_constraintBottom_toTopOf="@+id/textView7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.946" />
+
+    <TextView
+        android:id="@+id/textView62"
+        android:layout_width="84dp"
+        android:layout_height="18dp"
+        android:layout_marginEnd="72dp"
+        android:text="Año: 2019"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView35"
+        app:layout_constraintVertical_bias="0.049" />
+
+    <TextView
         android:id="@+id/textView34"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

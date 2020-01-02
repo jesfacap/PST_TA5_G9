@@ -8,6 +8,30 @@
     tools:context=".Main5Activity">
 
     <TextView
+        android:id="@+id/textView59"
+        android:layout_width="77dp"
+        android:layout_height="19dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="200dp"
+        android:text="Año: 2018"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5"
+        app:layout_constraintVertical_bias="0.388" />
+
+    <TextView
+        android:id="@+id/textView65"
+        android:layout_width="147dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="296dp"
+        android:layout_marginEnd="40dp"
+        android:text="Duracion: 149 minutos"
+        app:layout_constraintBottom_toTopOf="@+id/textView5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
         android:id="@+id/textView2"
         android:layout_width="325dp"
         android:layout_height="55dp"
